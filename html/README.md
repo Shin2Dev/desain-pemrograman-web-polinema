@@ -19,16 +19,16 @@ Mahasiswa diharapkan dapat:
 ### Apakah Internet?
 
 - Sebuah jaringan komputer yang besar.
-- Network of networks
+- _Network of networks_
 - Bekerja berdasarkan protokol TCP/IP
 
 ### Apa saja layanan Internet?
 
-- World Wide Web (WWW) : bekerja dengan protokol HTTP
-- E-mail : bekerja dengan protokol Post Office Protocol (POP), Simple Mail Transfer Protocol (SMTP), Internet Message Access Protocol (IMAP)
-- Chat : Internet Relay Chat (IRC)
-- File Transfer : File Transfer Protocol (FTP)
-- Remote Access : telnet, Shell Secure (SSH)
+- _World Wide Web_ (WWW) : bekerja dengan protokol HTTP
+- E-mail : bekerja dengan protokol _Post Office Protocol_ (POP), _Simple Mail Transfer Protocol_ (SMTP), _Internet Message Access Protocol_ (IMAP)
+- Chat : _Internet Relay Chat_ (IRC)
+- File Transfer : _File Transfer Protocol_ (FTP)
+- _Remote Access_ : _telnet, Shell Secure_ (SSH)
 - VoIP
 - dll
 
@@ -77,8 +77,11 @@ Sebagai contoh, alamat [www.polinema.ac.id](www.polinema.ac.id), jika diakses ma
 ### _Hypertext Markup Language_ (HTML)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_HyperText Markup Language_ (HTML) adalah sebuah Bahasa yang digunakan untuk membuat sebuah halaman web, dimana pemformatan menggunakan hiperteks sederhana yang ditulis menggunakan format ASCII agar menghasilkan tampilan wujud yang terintegerasi.
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;HTML ini merupakan standart internet yang didefinisikan dan dikendalikan penggunaannya oleh _World Wide Web Consortium_ (W3C). HTML dibuat oleh kolaborasi Caillau TIM dengan Berners-Lee Robert ketika mereka bekerja di CERN pada tahun 1989 (CERN adalah lembaga penelitian fisika energi Tinggi di jenewa).
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;HTML dapat dibaca oleh berbagai macam _platform_. HTML juga merupakan Bahasa pemograman yang fleksible dan dapat digabungkan dengan Bahasa pemograman lain seperti PHP, ASP, JSP dan JavaScript.
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Beberapa _tag_ dalam dokumen-dokumen HTML menentukan bagaimana teks diformat. Terdapat juga _tag-tag_ yang lain yang memberitahukan bagaimana menanggapi aksi-aksi yang dilakukan oleh pengguna. Sebagai contoh buka halaman [www.google.com](www.google.com) dan klik kanan pada _browser_ (Chrome) pilih inspect sehingga pada browser akan muncul.
 
 ![Inspect Element](/html/img/inspect.png)
