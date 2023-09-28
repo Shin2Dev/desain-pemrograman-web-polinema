@@ -45,6 +45,8 @@ Pada HTML5, struktur penulisan lebih ringkas dengan bentuk sebagai berikut:
 
 3.  Buka browser Anda lalu ketikkan alamat: [localhost/dasarWeb/hello.html](http://localhost/dasarWeb/hello.html).
 
+    **Pastikan XAMPP Apache dalam keadaan hidup**
+
     ![Tampilan Web](/html/praktikum2/img/br.png)
 
 4.  Amati apa yang muncul pada browser. Catat hasil pengamatanmu.
@@ -60,6 +62,6 @@ Pada HTML5, struktur penulisan lebih ringkas dengan bentuk sebagai berikut:
 
     - Seperti apa yang saya jelaskan pada point no. 4 yaitu fungsi dari `<br>` yaitu sebagai pemisah antara satu kalimat dengan kalimat yang lain dan membuat baris baru. Jika tag `<br>` dihilangkan, maka hasilnya seperti berikut:
 
-    | Tanpa `<br>`                                  | Pakai `<br>`                               |
-    | --------------------------------------------- | ------------------------------------------ |
-    | ![Tanpa <br>](/html/praktikum2/img/no-br.png) | ![Pakai <br>](/html/praktikum2/img/br.png) |
+      | Tanpa `<br>`                                  | Pakai `<br>`                               |
+      | --------------------------------------------- | ------------------------------------------ |
+      | ![Tanpa <br>](/html/praktikum2/img/no-br.png) | ![Pakai <br>](/html/praktikum2/img/br.png) |
