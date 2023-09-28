@@ -41,3 +41,34 @@ href="../style.css"
 ```html
 href="../assets/style.css"
 ```
+
+## Daftar Praktikum
+
+1. [Menghubungkan HTML dengan CSS]()
+2. [Penggunaan div]()
+3. [Mengenal class dan id pada HTML]()
+4. [Mengubah _Background_ Halaman Web dengan CSS]()
+5. [Menggunakan _image_ untuk Background]()
+6. [Margin dan Padding pada CSS]()
+7. [Pengaturan Font pada CSS]()
+8. [Mengatur _Hyperlink_ dengan CSS]()
+9. [Mengatur Format Text dengan CSS]()
+10. [Mengenal Position CSS]()
+11. [Menggunakan Float]()
+12. [CSS _Layouting_]()
+13. [Display _Inline_]()
+14. [Display _inline-block_]()
+15. [Display _block_]()
+16. [_Box Model: Margin_]()
+17. [_Flex Box_]()
+18. [_CSS Grid_]()
+
+## Referensi
+
+1. Jason Beaird, The principles of Beautiful Web Design
+2. Rian Ariona, Belajar HTML dan CSS (Tutorial Fundamental dalam mempelajari HTML dan CSS)
+3. Adi Hadisaputra, HTML dan CSS Fundamental dari Akar menuju Daun John Duckett,HTML dan CSS design and build websites
+4. https://developer.mozilla.org/en-US/docs/Web/HTML/Block-level_elements
+5. https://css-tricks.com/almanac/properties/d/display
+6. http://www.w3.org/TR/CSS2/box.html
+7. http://www.w3schools.com/css/css_boxmodel.asp

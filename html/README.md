@@ -88,7 +88,7 @@ Sebagai contoh, alamat [www.polinema.ac.id](www.polinema.ac.id), jika diakses ma
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pada baris pertama terdapat tulisan &lt;!DOCTYPE HTML&gt;, ini menunjukkan bahwa dokumen yang sedang anda buka adalah HTML. Pada baris kedua terdapat juga _tag_ HTML, kode tersebut juga menandakan bawah kode-kode yang ditulis didalamnnya adalah kode HTML
 
-### Daftar Praktikum
+## Daftar Praktikum
 
 1. [Instalasi XAMPP](/html/praktikum1/)
 2. [Memulai HTML](/html/praktikum2/)
@@ -103,7 +103,7 @@ Sebagai contoh, alamat [www.polinema.ac.id](www.polinema.ac.id), jika diakses ma
 11. [Tabel dan Pengaturannya]()
 12. [Bekerja dengan Form pada HTML]()
 
-### Referensi:
+## Referensi
 
 1. Jason Beaird, The principles of Beautiful Web Design
 2. Rian Ariona, Belajar HTML dan CSS ( Tutorial Fundamental dalam mempelajari HTML dan CSS)
