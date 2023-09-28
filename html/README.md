@@ -38,7 +38,7 @@ Mahasiswa diharapkan dapat:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Website adalah sebuah kumpulan dari halaman web yang saling berhubungan dan dapat diakses melalui halaman utama (home page) menggunakan sebuah browser
 
-Sebagai contoh, alamat [www.polinema.ac.id](www.polinema.ac.id), jika diakses maka akan tampil homepage.
+Sebagai contoh, alamat [www.polinema.ac.id](http://www.polinema.ac.id), jika diakses maka akan tampil homepage.
 
 ![Homepage Polinema](/html/img/homepage.png)
 
@@ -82,7 +82,7 @@ Sebagai contoh, alamat [www.polinema.ac.id](www.polinema.ac.id), jika diakses ma
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;HTML dapat dibaca oleh berbagai macam _platform_. HTML juga merupakan Bahasa pemograman yang fleksible dan dapat digabungkan dengan Bahasa pemograman lain seperti PHP, ASP, JSP dan JavaScript.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Beberapa _tag_ dalam dokumen-dokumen HTML menentukan bagaimana teks diformat. Terdapat juga _tag-tag_ yang lain yang memberitahukan bagaimana menanggapi aksi-aksi yang dilakukan oleh pengguna. Sebagai contoh buka halaman [www.google.com](www.google.com) dan klik kanan pada _browser_ (Chrome) pilih inspect sehingga pada browser akan muncul.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Beberapa _tag_ dalam dokumen-dokumen HTML menentukan bagaimana teks diformat. Terdapat juga _tag-tag_ yang lain yang memberitahukan bagaimana menanggapi aksi-aksi yang dilakukan oleh pengguna. Sebagai contoh buka halaman [www.google.com](http://www.google.com) dan klik kanan pada _browser_ (Chrome) pilih inspect sehingga pada browser akan muncul.
 
 ![Inspect Element](/html/img/inspect.png)
 
