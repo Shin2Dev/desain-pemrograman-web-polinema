@@ -44,8 +44,8 @@ href="../assets/style.css"
 
 ## Daftar Praktikum
 
-1. [Menghubungkan HTML dengan CSS]()
-2. [Penggunaan div]()
+1. [Menghubungkan HTML dengan CSS](/css/praktikum1/)
+2. [Penggunaan div](/css/praktikum2/)
 3. [Mengenal class dan id pada HTML]()
 4. [Mengubah _Background_ Halaman Web dengan CSS]()
 5. [Menggunakan _image_ untuk Background]()
