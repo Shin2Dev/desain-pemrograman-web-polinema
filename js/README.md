@@ -34,8 +34,8 @@ Ada 3 macam cara penulisan tag **javascript**, yaitu;
 
 ## Daftar Praktikum
 
-1. [Belajar JavaScript]()
-2. [Membuat Program JavaScript Pertama]()
+1. [Belajar JavaScript](/js/praktikum1/)
+2. [Membuat Program JavaScript Pertama](/js/praktikum2/)
 3. [Cara Menulis Kode JavaScript di HTML]()
 4. [Jendela Dialog]()
 5. [Variabel]()
