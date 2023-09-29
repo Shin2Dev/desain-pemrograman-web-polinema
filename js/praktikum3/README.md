@@ -2,9 +2,9 @@
 
 Pada [praktikum 2](/js/praktikum2/) kita sudah menulis kode javascript di dalam HTML, cara tersebut merupakan cara penulisan embeded (ditempel). Beberapa cara lain yang perlu kita ketahui diantaranya :
 
-1.  [Embed](/js/praktikum3#penulisan-kode-javascript-dengan-embed) (Kode Javascript ditempel langsung pada HTML)
-2.  [Inline](/js/praktikum3#penulisan-kode-javascript-inline) (Kode Javascript ditulis pada atribut HTML)
-3.  [Eksternal](/js/praktikum3#penulisan-kode-javascript-eksternal) (Kode Javascript ditulis dengan terpisah dengan file HTML)
+1.  [Embed](#penulisan-kode-javascript-dengan-embed) (Kode Javascript ditempel langsung pada HTML)
+2.  [Inline](#penulisan-kode-javascript-inline) (Kode Javascript ditulis pada atribut HTML)
+3.  [Eksternal](#penulisan-kode-javascript-eksternal) (Kode Javascript ditulis dengan terpisah dengan file HTML)
 
 ### Penulisan Kode JavaScript dengan Embed
 
