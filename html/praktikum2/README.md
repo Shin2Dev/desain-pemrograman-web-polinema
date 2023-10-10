@@ -29,6 +29,11 @@ Pada HTML5, struktur penulisan lebih ringkas dengan bentuk sebagai berikut:
 ### Langkah Praktikum
 
 1.  Buka folder XAMPP di direktori tempat Anda menginstall XAMPP. Buka direktori **htdocs** kemudian buat satu folder baru bernama dasarWeb.
+
+    ![htdocs](/html/img/praktikum2/htdocs.png)
+
+    ![dasarWeb](/html/img/praktikum2/dasarweb.png)
+
 2.  Kemudian buka text editor Anda, buat file baru bernama `hello.html` dan simpan di dalam direktori dasarWeb yang baru saja Anda buat.
 
     ```html
@@ -38,7 +43,10 @@ Pada HTML5, struktur penulisan lebih ringkas dengan bentuk sebagai berikut:
       </head>
 
       <body>
-        <p>Hello World! Welcome to my <b>first</b> HTML Page.</p>
+        <p>
+          Hello World! <br />
+          Welcome to my <b>first</b> HTML Page.
+        </p>
       </body>
     </html>
     ```
@@ -47,16 +55,16 @@ Pada HTML5, struktur penulisan lebih ringkas dengan bentuk sebagai berikut:
 
     **Pastikan XAMPP Apache dalam keadaan hidup**
 
-    ![Tampilan Web](/html/praktikum2/img/br.png)
+    ![Tampilan Web](/html/img/praktikum2/br.png)
 
 4.  Amati apa yang muncul pada browser. Catat hasil pengamatanmu.
 
     Berdasarkan hasil yang terlihat dalam halaman web diatas, dapat saya simpulkan sebagai berikut:
 
-    - Tulisan “My First HTML Document” pada elemen `<title>`, akan terlihat di atas tab browser.
+    - Tulisan “**My First HTML Document**” pada elemen `<title>`, akan terlihat di atas tab browser.
     - Didalam halaman web akan muncul paragraf yang diawali dengan tag `<p>` disertai dengan isi atau tulisan didalamnya.
-    - Tulisan “Hello World!” dengan “Welcome to my first HTML Page” akan terlihat pisah walaupun didalam hello.html ditulis gabung. Hal ini dikarenakan fungsi dari `<br>` yaitu sebagai pemisah antara satu kalimat dengan kalimat yang lain dan membuat baris baru.
-    - Kata “first” dicetak tebal karena diantara kata tersebut diapit dengan tag `<b>` yang berfungsi untuk menebalkan huruf.
+    - Tulisan “**Hello World!**” dengan “**Welcome to my first HTML Page**” akan terlihat pisah walaupun didalam hello.html ditulis gabung. Hal ini dikarenakan fungsi dari `<br>` yaitu sebagai pemisah antara satu kalimat dengan kalimat yang lain dan membuat baris baru.
+    - Kata “**first**” dicetak tebal karena diantara kata tersebut diapit dengan tag `<b>` yang berfungsi untuk menebalkan huruf.
 
 5.  Hilangkan tag `<br>` pada kode, amati perbedaan dan sampaikan dibawah ini apakah fungsi tag `<br>`.
 
@@ -64,4 +72,4 @@ Pada HTML5, struktur penulisan lebih ringkas dengan bentuk sebagai berikut:
 
       | Tanpa `<br>`                                  | Pakai `<br>`                               |
       | --------------------------------------------- | ------------------------------------------ |
-      | ![Tanpa <br>](/html/praktikum2/img/no-br.png) | ![Pakai <br>](/html/praktikum2/img/br.png) |
+      | ![Tanpa <br>](/html/img/praktikum2/no-br.png) | ![Pakai <br>](/html/img/praktikum2/br.png) |

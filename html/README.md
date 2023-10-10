@@ -86,7 +86,7 @@ Sebagai contoh, alamat [www.polinema.ac.id](http://www.polinema.ac.id), jika dia
 
 ![Inspect Element](/html/img/inspect.png)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pada baris pertama terdapat tulisan &lt;!DOCTYPE HTML&gt;, ini menunjukkan bahwa dokumen yang sedang anda buka adalah HTML. Pada baris kedua terdapat juga _tag_ HTML, kode tersebut juga menandakan bawah kode-kode yang ditulis didalamnnya adalah kode HTML
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pada baris pertama terdapat tulisan `<!DOCTYPE HTML>`, ini menunjukkan bahwa dokumen yang sedang anda buka adalah HTML. Pada baris kedua terdapat juga _tag_ HTML, kode tersebut juga menandakan bawah kode-kode yang ditulis didalamnnya adalah kode HTML
 
 ## Daftar Praktikum
 
@@ -94,17 +94,17 @@ Sebagai contoh, alamat [www.polinema.ac.id](http://www.polinema.ac.id), jika dia
 2. [Memulai HTML](/html/praktikum2/)
 3. [Format Teks](/html/praktikum3/)
 4. [Font](/html/praktikum4/)
-5. [Karakter Khusus]()
-6. [Garis Horizontal]()
-7. [Menggunakan List]()
-8. [Pewarnaan]()
-9. [Bekerja dengan Gambar]()
-10. [Link]()
-11. [Tabel dan Pengaturannya]()
-12. [Bekerja dengan Form pada HTML]()
+5. [Karakter Khusus](/html/praktikum5/)
+6. [Garis Horizontal](/html/praktikum6/)
+7. [Menggunakan List](/html/praktikum7/)
+8. [Pewarnaan](/html/praktikum8/)
+9. [Bekerja dengan Gambar](/html/praktikum9/)
+10. [Link](/html/praktikum10/)
+11. [Tabel dan Pengaturannya](/html/praktikum11/)
+12. [Bekerja dengan Form pada HTML](/html/praktikum12/)
 
 ## Referensi
 
 1. Jason Beaird, The principles of Beautiful Web Design
-2. Rian Ariona, Belajar HTML dan CSS ( Tutorial Fundamental dalam mempelajari HTML dan CSS)
+2. Rian Ariona, Belajar HTML dan CSS (Tutorial Fundamental dalam mempelajari HTML dan CSS)
 3. Adi Hadisaputra, HTML dan CSS Fundamental dari Akar menuju Daun John Duckett,HTML dan CSS design and build websites
