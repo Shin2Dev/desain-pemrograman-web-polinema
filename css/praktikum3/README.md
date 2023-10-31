@@ -1,12 +1,14 @@
 # Praktikum 3 - Mengenal class dan id pada HTML
 
+### Mengenal _class_ dan _id_ pada HTML
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`Class` dan `id` digunakan sebagai penanda pada `html`, yang dimaksud dengan penanda di sini adalah element-element `html` dapat di beri tanda dengan `class` atau `id`. Elemen-elemen dalam `HTML` diberi tanda agar dapat di manipulasi menggunakan `css` atau `javascript`.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bayangan sederhananya jika anda memiliki lima buah kotak, semua kotak yang anda miliki berwarna biru, kemudian anda ingin mengubah warna kotak yang ketiga, nah di sinilah letak kegunaan `class` dan `id`, untuk memberikan tanda atau nama pada kotak anda agar bisa di ubah dan kotak yang lain tidak akan berubah.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Perbedaan dari `class` dan `id` adalah `class` di panggil pada css atau javascript dengan menggunakan tanda titik “.”, dan `id` di panggil pada css atau javascript dengan tanda pagar “#”, ada kelebihan di sini untuk `class`, yaitu `class` dapat di berikan pada banyak element `html` dan dapat di panggil sekaligus, sedangkan `id` hanya dapat bekerja pada satu penandaan saja, maksudnya satu nama `id` hanya bisa di berikan pada satu element saja.
 
-### Langkah Praktikum
+#### Langkah Praktikum
 
 1.  Buat satu file baru bernama `classid.html` di dalam folder dasarWeb
 2.  Ketikkan ke dalam file `classid.html` tersebut kode di bawah ini.
