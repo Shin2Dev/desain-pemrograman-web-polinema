@@ -1,0 +1,15 @@
+.link {
+    font-size: 20pt;
+}
+
+.link:link {
+    color: blue;
+}
+
+.link:hover {
+    color: red;
+}
+
+.link:visited {
+    color: greenyellow;
+}
