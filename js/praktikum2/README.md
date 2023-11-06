@@ -2,7 +2,7 @@
 
 ### Langkah Praktikum
 
-1.  Silahkan buka text editor, kemudian buat file baru bernama `hello_world.html`
+1.  Silahkan buka text editor, kemudian buat folder baru bernama `belajarjavascript` di dalam folder `htdocs` dan buat file baru bernama `hello_world.html`
 2.  Ketikkan kode program dibawah ini:
 
     ```html
@@ -21,9 +21,11 @@
     </html>
     ```
 
-3.  Simpan dengan nama `hello_world.html`, kemudian buka file tersebut dengan web browser
+3.  Simpan file tersebut, kemudian buka browser dan jalankan [localhost/belajarjavascript/hello_world.html](http://localhost/belajarjavascript/hello_world.html)
 
-    ![Hello World](/js/praktikum2/img/hello-world.png)
+    **Pastikan XAMPP Apache dalam keadaan hidup**
+
+    ![Hello World](/js/img/praktikum2/hello-world.png)
 
 4.  Amati apa yang terjadi pada browser, kemudian catat hasil pengamatanmu
 
@@ -36,7 +38,7 @@
 
 5.  Sekarang coba buka console javascript, kemudian lihat pada Inspect Elements
 
-    ![Inspect Element](/js/praktikum2/img/console.png)
+    ![Inspect Element](/js/img/praktikum2/console.png)
 
 6.  Amati apa yang terjadi pada tab Console, kemudian catat hasil pengamatanmu!
 

@@ -4,7 +4,7 @@
 
 1.  _Console_ JavaScript dapat kita buka melalui klik kanan pada mouse -> Inspect Element -> Console.
 
-    ![Inspect Menu](/js/praktikum1/img/inspect-menu.png)
+    ![Inspect Menu](/js/img/praktikum1/inspect-menu.png)
 
 2.  Di dalam console, kita bisa menulis fungsi atau kode-kode javascript dan hasilnya akan langsung ditampilkan.
 
@@ -17,7 +17,7 @@
 
 4.  Jika kamu menggunakan [Nodejs](https://nodejs.org/id), maka cara mengakses _console_ adalah dengan mengetik perintah node pada Terminal.
 
-    ![NodeJs](/js/praktikum1/img/node.png)
+    ![NodeJs](/js/img/praktikum1/node.png)
 
 5.  Amati apa yang terjadi, kemudian catat hasil pengamatanmu. Apa yang dapat disimpulkan setelah mencoba _console_ JavaScript?
 

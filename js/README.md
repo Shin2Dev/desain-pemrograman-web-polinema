@@ -48,5 +48,5 @@ Ada 3 macam cara penulisan tag **javascript**, yaitu;
 ## Referensi
 
 1. Jason Beaird, The principles of Beautiful Web Design
-2. Rian Ariona, Belajar HTML dan CSS ( Tutorial Fundamental dalam mempelajari HTML dan CSS)
+2. Rian Ariona, Belajar HTML dan CSS (Tutorial Fundamental dalam mempelajari HTML dan CSS)
 3. Adi Hadisaputra, HTML dan CSS Fundamental dari Akar menuju Daun John Duckett, HTML dan CSS design and build websites
