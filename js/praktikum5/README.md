@@ -18,7 +18,7 @@ Untuk menampilkan isi variabel, kita bisa memanfaatkan fungsi-fungsi untuk menam
 
 #### Langkah Praktikum
 
-1. Buat File baru berana `variabel_javascript.html` dan simpan dalam direktori belajarjavascript
+1. Buat File baru bernama `variabel_javascript.html` dan simpan dalam direktori belajarjavascript
 2. Ketikkan kode program dibawah ini:
 
    ```html

@@ -10,7 +10,7 @@ Jendela dialog merupakan jendela yang digunakan untuk berinteraksi dengan penggu
 
 #### Langkah Praktikum
 
-1. Buat File baru berana `alert_javascript.html` dan simpan dalam direktori belajarjavascript
+1. Buat File baru bernama `alert_javascript.html` dan simpan dalam direktori belajarjavascript
 2. Ketikkan kode program dibawah ini:
 
    ```html
